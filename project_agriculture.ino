@@ -1,4 +1,4 @@
-// === Device for Endangered Species (Simulation Version) ===
+
 // PIR → pin 2, Potentiometer → A0, LED → 13
 
 const int PIR_PIN = 2;
